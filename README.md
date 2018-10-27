@@ -1,7 +1,7 @@
 # TASK-FOCUS
 [Live Demo] (https://task-focus.herokuapp.com/)
 [Front End Repo] (https://github.com/sanchezl391/pomodoro)
-[Back End Repo] (https://github.com/sanchezl391/api-pomodoro-app)
+[Back End Repo] (https://github.com/sanchezl391/api-task-focus)
 ## About TASK-FOCUS
 Task Focus is a pomodoro web application that allows a user to work for a set period of time and take a break. The idea is that the user focuses for the set period of time and then takes a break. The break allows the user to relax and avoid fatigue and stress. A message can be set for push notifications to remind the user to perform another task, such as do laundry, plan out day, exercise, etc.
 ## Features
